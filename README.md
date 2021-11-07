@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @brusherr
-- 👀 I’m interested in ... <mainly in Swift and apple products.>
-- 🌱 I’m currently learning ...<Swift>
-- 🤝 I’m looking to collaborate on ... 
-- 📫 How to reach me ... <you can reach me only here at moment.>
+Hello to everyone.
+
+You can't change me, but you can teach me.
+
+What i can do in programming -> still nothing.
+
+Learning -> Swift.
 
 <!---
 brusherr/brusherr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
