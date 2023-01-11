@@ -2,7 +2,7 @@ Hello to everyone.
 
 You can't change me, but you can teach me.
 
-What i can do in programming -> still nothing.
+What i can do in programming -> basic things.
 
 Learning -> HTML > CSS > JS
 
